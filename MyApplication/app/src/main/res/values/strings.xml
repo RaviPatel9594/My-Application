@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="welcome_to_library" translatable="false">welcome to library</string>
+    <string name="sap_id">Sap ID</string>
+    <string name="username">Enter Name</string>
+    <string name="branch">Branch</string>
+    <string name="gender">Gender</string>
+    <string name="email">Email ID</string>
+    <string name="sge">Age</string>
+    <string name="submit">Submit</string>
+    <string name="male">male</string>
+    <string name="female">female</string>
+    <string name="other">other</string>
+    <string name="name">Name:</string>
+    <string name="branch_">Branch:</string>
+    <string name="gender_">Gender:</string>
+    <string name="email_">Email ID:</string>
+    <string name="sge_">Age:</string>
+    <string name="sap_id_">Sap ID:</string>
+</resources>

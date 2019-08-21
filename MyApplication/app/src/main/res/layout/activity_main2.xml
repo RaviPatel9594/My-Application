@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Main2Activity">
+
+    <TextView
+        android:id="@+id/nameTe8"
+        android:layout_width="170dp"
+        android:layout_height="65dp"
+        android:text="@string/name"
+        android:textSize="36sp" />
+
+    <TextView
+        android:id="@+id/nameTe7"
+        android:layout_width="169dp"
+        android:layout_height="65dp"
+        android:text="@string/sge_"
+        android:textSize="36sp" />
+
+    <TextView
+        android:id="@+id/nameTe"
+        android:layout_width="169dp"
+        android:layout_height="65dp"
+        android:text="@string/gender_"
+        android:textSize="36sp" />
+
+    <TextView
+        android:id="@+id/nameTe6"
+        android:layout_width="172dp"
+        android:layout_height="65dp"
+        android:text="@string/sap_id_"
+        android:textSize="36sp" />
+
+    <TextView
+        android:id="@+id/nameTe5"
+        android:layout_width="172dp"
+        android:layout_height="65dp"
+        android:textSize="36sp"
+        tools:text="@string/branch_" />
+
+</LinearLayout>

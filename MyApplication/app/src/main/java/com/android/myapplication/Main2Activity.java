@@ -8,7 +8,7 @@ import android.widget.TextView;
 public class Main2Activity extends AppCompatActivity {
     private TextView nametextview,agetextview,branchtextview,gendertextview,sapidtextview;
     private String name,branch,gender;
-    privatr int sapid,age;
+    private int sapid,age;
     
 
     @Override
